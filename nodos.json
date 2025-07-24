@@ -1,0 +1,14 @@
+[
+  {
+    "condicion": "hola",
+    "respuesta": "bienvenido a nuestra tienda"
+  },
+  {
+    "condicion": "buenas noches ",
+    "respuesta": "bienvenido a nuestra tienda"
+  },
+  {
+    "condicion": "productos ",
+    "respuesta": "por su puesto tenemos una gran variedad de productos en nuestro catalogo "
+  }
+]

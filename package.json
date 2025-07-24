@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "lapleberiabot",
   "version": "1.0.0",
@@ -14,3 +15,32 @@
     "deepseek": "^1.0.0"
   }
 }
+=======
+{
+  "name": "lapleberiabot",
+  "version": "1.0.0",
+  "description": "Framework para integración de WhatsApp Web con WooCommerce",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "@woocommerce/woocommerce-rest-api": "^1.0.1",
+    "body-parser": "^2.2.0",
+    "deepseek": "^0.0.2",
+    "dotenv": "^17.2.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "json2csv": "^6.0.0-alpha.2",
+    "openai": "^4.0.0",
+    "pdf-parse": "^1.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1",
+    "whatsapp-web.js": "^1.21.0",
+    "xlsx": "^0.18.5"
+  }
+}
+>>>>>>> 08b99f6 (Actualización de README y licencia MIT)
